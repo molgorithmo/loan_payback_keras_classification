@@ -8,4 +8,4 @@ LendingClub is a US peer-to-peer lending company, headquartered in San Francisco
 
 ## Our Goal
 
-Given historical data on loans given out with information on whether or not the borrower defaulted (charge-off), building a model that can predict whether or nor a borrower will pay back their loan? This way in the future when we get a new potential customer we can assess whether or not they are likely to pay back the loan.
+Building a classification model on given historical data on loans given out with information on whether or not the borrower defaulted (charge-off), that can predict whether or nor a borrower will pay back their loan? This way in the future when we get a new potential customer we can assess whether or not they are likely to pay back the loan.
